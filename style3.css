@@ -1,0 +1,26 @@
+body {
+    background-image: url("Service.jpg");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+  }
+  .title {
+    font-size: 48px;
+    background: linear-gradient(to right, #ff0000, #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bg-blue {
+    background-color: #0047ab;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+  }
+  
